@@ -10,3 +10,7 @@
 	path = server
 	url = https://github.com/poom-ytthpc/match_server.git
 	branch = main
+[submodule "main"]
+	path = main
+	url = https://github.com/poom-ytthpc/match_device.git
+	branch = main
