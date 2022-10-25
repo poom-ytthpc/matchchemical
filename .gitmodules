@@ -1,0 +1,12 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/poom-ytthpc/match_client.git
+	branch = main
+[submodule "admin"]
+	path = admin
+	url = https://github.com/poom-ytthpc/match_admin.git
+	branch = main
+[submodule "server"]
+	path = server
+	url = https://github.com/poom-ytthpc/match_server.git
+	branch = main
